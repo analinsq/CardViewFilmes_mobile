@@ -49,7 +49,19 @@ class MainActivity : AppCompatActivity() {
                 "saga do multiverso, começando a juntar de vez as linhas de história que " +
                 "culminarão em Vingadores: Guerras Secretas — pelo menos é o que a gente espera.\n" +
                 "\n" +
-                "Deadpool 3 tem previsão de estreia para o dia 25 de julho.", R.drawable.deadpool)
+                "Deadpool 3 tem previsão de estreia para o dia 25 de julho.", R.drawable.deadpool),
+        Filmes("Coringa 2", "Coringa foi um sucesso absurdo nos cinemas, " +
+                "dando ao público uma nova versão do Palhaço do Crime e rendendo um Oscar " +
+                "de Melhor Ator a Joaquin Phoenix. Sua sequência, que deve ser um musical, " +
+                "tem como grande atrativo a introdução de Harleen Quinzel, a Arlequina, que " +
+                "será interpretada pela Lady Gaga.\n" +
+                "\n" +
+                "É o tipo de filme que pode dar muito certo ou muito errado, o que apenas o " +
+                "torna ainda mais imperdível. Além da dupla principal, o filme traz Brandan " +
+                "Gleeson (Os Banshees de Inisherin), Zazie Beetz (Deadpool 2) e Catherine " +
+                "Keener (Corra!).\n" +
+                "\n" +
+                "Coringa 2 tem estreia prevista para o dia 3 de outubro.", R.drawable.coringa2)
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
